@@ -1,0 +1,168 @@
+{
+    "Ads": {
+     	"show_ads": true,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+        "api": "000000",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/1044960115",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "apiads": "000000",
+        "intersitial_click_activites": 6,
+        "intersitial_click_list": 6
+
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "Introduction to Afterpay",
+                "image": "https://m-imag.web.app/afterpay/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "Afterpay is an innovative financial service that allows you to make purchases now and pay for them in four installments, made every two weeks, without any interest. It offers a convenient and flexible payment option compared to traditional payment methods.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "How to Use Afterpay",
+                "image": "https://m-imag.web.app/afterpay/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "To start using Afterpay, first, you need to create an account on their website or app. Once your account is set up, you can shop at your favorite stores as usual. At checkout, choose Afterpay as your payment method. Your purchase price will then be split into four equal installments, payable every two weeks.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Benefits of Using Afterpay",
+                "image": "https://m-imag.web.app/afterpay/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Using Afterpay provides several benefits. It allows you to manage your expenses better by spreading out the cost of your purchases over time, rather than paying the full amount upfront. There are no interest charges or additional fees when you pay on time. Also, Afterpay is accepted at a wide range of stores, offering you plenty of shopping options.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "The Afterpay Mobile App",
+                "image": "https://m-imag.web.app/afterpay/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "The Afterpay mobile app makes the service even more convenient to use. With the app, you can manage your payments, keep track of your spending, and discover new brands and stores offering Afterpay. The app is free to download and available on both iOS and Android platforms.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Stores and Brands Offering Afterpay",
+                "image": "https://m-imag.web.app/afterpay/5.webp",
+                "title_size": "25",
+             	"detail": [{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Afterpay is integrated with numerous popular brands and stores. This includes a wide range of industries from fashion to home goods, electronics, sports, and more. Visit Afterpay's shop directory on their website to explore the full list of stores.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Conclusion.",
+                "image": "https://m-imag.web.app/afterpay/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "In conclusion, Afterpay offers a convenient and interest-free way to shop now and pay later. With a simple setup process, user-friendly app, and extensive store availability, it's an attractive option for anyone seeking a flexible and manageable payment method. Remember, as with any financial service, it's essential to use Afterpay responsibly, ensuring you can comfortably afford the installments before making a purchase. Enjoy shopping with Afterpay!",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+        ]
+    }
+}
