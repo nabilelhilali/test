@@ -1,9 +1,9 @@
 {
     "Ads": {
-     	"enableAds": false,
-        "bannerAdType": "facebook",
-        "interstitialAdType": "facebook",
-        "nativeAdType": "facebook",
+     	"enableAds": true,
+        "bannerAdType": "admob",
+        "interstitialAdType": "admob",
+        "nativeAdType": "admob",
         "admobBannerId": "ca-app-pub-3940256099942544/6300978111",
         "admobInterstitialId": "ca-app-pub-3940256099942544/1033173712",
         "admobNativeId": "ca-app-pub-3940256099942544/1044960115",
