@@ -1,6 +1,6 @@
 {
     "Ads": {
-     	"enableAds": true,
+     	"enableAds": false,
         "bannerAdType": "facebook",
         "interstitialAdType": "facebook",
         "nativeAdType": "facebook",
